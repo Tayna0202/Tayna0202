@@ -1,0 +1,2 @@
+- 👋 Hi, my name is Tayna Simões Santos
+- 🌱 I’m currently learning Programming.
