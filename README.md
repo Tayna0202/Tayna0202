@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Tayna Simões Santos
-- 🌱 I’m currently learning Programming.
+### 👋 Hi, my name is Tayna Simões Santos
+# 🌱 I’m currently learning Programming.
 
 ### Technologies currently studied
 
