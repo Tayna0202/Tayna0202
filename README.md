@@ -2,6 +2,8 @@
 
 ### 🌱 I’m currently learning Programming.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/81695384/193081066-6a985dcf-c988-4667-8a74-6d96fa254e51.gif)
+
 <div>
   <a href="https://github.com/tayna0202">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayna0202&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
