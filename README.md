@@ -1,6 +1,8 @@
 ## 👋 Hi, my name is Tayna Simões Santos
 ### 🌱 I’m currently learning Programming.
 
+<a href= "https://github-readme-stats.vercel.app/api?username=tayna0202)](https://github.com/anuraghazra/github-readme-stats)">
+
 ### Technologies currently studied
 
 <div>
