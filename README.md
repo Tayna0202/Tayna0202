@@ -3,7 +3,7 @@
 
 ### 🌱 I’m currently learning Programming.
 
-![](https://github.com/Tayna0202/Tayna0202/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Tayna0202/Tayna0202/blob/output/github-contribution-grid-snake.svg)
 
 <img align="right" height="320em" src="https://user-images.githubusercontent.com/81695384/193081066-6a985dcf-c988-4667-8a74-6d96fa254e51.gif">
 
