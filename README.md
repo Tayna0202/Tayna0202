@@ -1,9 +1,18 @@
 <div align="center">  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b1c71&height=120&section=header"/>
-<h1>👋 Hi, my name is Tayna Simões Santos</h1>
-Meu Portifólio Web: https://portifolio-tayna.vercel.app/
+<h1>👋 Olá, me chamo Tayna Simões</h1>
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/taynasimoes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF)](https://github.com/Tayna0202)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=FF00F6&color:FFF)](https://portifolio-tayna.vercel.app/)
 
-### 🌱 I’m currently learning Programming.
+### 🌱 Estou estudando programação
+
+### Principais tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,spring,ts,angular,mysql,git,github,&perline=6" />
+</div>
 
 ![Snake animation](https://github.com/Tayna0202/Tayna0202/blob/output/github-contribution-grid-snake.svg)
 
@@ -12,34 +21,4 @@ Meu Portifólio Web: https://portifolio-tayna.vercel.app/
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayna0202&layout=compact&hide_border=true&title_color=4b1c71&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-### Technologies currently studied
-
-<div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60"/>
-</div>
-<div> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="60"/>
-</div>
-<div>
-            <a href = "wa.link/dx0ogh" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-            <a href = "https://www.instagram.com/taynasimoes22/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-            <a href = "mailto: taytv22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-            <a href = "https://www.linkedin.com/in/taynasimoes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 </div>
