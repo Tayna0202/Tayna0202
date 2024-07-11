@@ -11,7 +11,7 @@
 ### Principais tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,spring,ts,angular,mysql,git,github,&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,spring,react,ts,angular,mysql,git,&perline=6" />
 </div>
 
 <div align="center">  
