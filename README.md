@@ -4,7 +4,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/taynasimoes/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF)](https://github.com/Tayna0202)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=FF00F6&color:FFF)](https://taynaportifolio.vercel.app/)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=FF00F6&color:FFF)](https://portifoliotayna-tayna0202s-projects.vercel.app/)
 
 ### 🌱 Estou estudando programação
 
